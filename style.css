@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to bottom right,#4B6CB7,#182848);
+    color: white;
+}
+.h2{
+    background-color: #f2f2f2;
+    color: #2b2b2b;
+}
+#sketch{
+    float: right;
+}
+.scr{
+    float: left;
+}
+.time{
+    float: right;
+    padding-right: 40px;
+}
